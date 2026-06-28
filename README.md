@@ -12,4 +12,4 @@ A local web server runs inside the Unity Editor and serves a touch UI to any dev
 Available on the Unity Asset Store.
 
 ## Contact
-qwe736392@gmail.com# animator-remote
+qwe736392@gmail.com
